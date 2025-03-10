@@ -62,3 +62,10 @@ input {
     right:0;
     border:0
   }
+.padding {
+    padding: 100px !important;
+}
+::placeholder {
+    color: grey;
+    opacity: 50%;
+}
