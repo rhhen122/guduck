@@ -1,7 +1,7 @@
 body {
     padding: 15%;
     text-align: center;
-    background-image: linear-gradient(to bottom left, black, #222);
+    background-image: linear-gradient(to left, black, #222);
     font-size: 1.5rem;
     color: white;
 }
@@ -72,4 +72,9 @@ input {
 ::placeholder {
     color: whitesmoke;
     opacity: 50%;
+}
+.info-button {
+    padding-left: 10px;
+    position: absolute;
+    text-align: right;
 }
