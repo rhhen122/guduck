@@ -11,10 +11,6 @@ body {
 p {
     padding: 10px;
 }
-a {
-    color: grey;
-    text-decoration: none;
-}
 input {
     padding:8px 12px;
     border:5px ridge #ddd;
